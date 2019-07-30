@@ -1,0 +1,11 @@
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\bin\Debug\netcoreapp2.2\Lab11MovieList.deps.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\bin\Debug\netcoreapp2.2\Lab11MovieList.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\bin\Debug\netcoreapp2.2\Lab11MovieList.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\bin\Debug\netcoreapp2.2\Lab11MovieList.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\bin\Debug\netcoreapp2.2\Lab11MovieList.pdb
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\obj\Debug\netcoreapp2.2\Lab11MovieList.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\obj\Debug\netcoreapp2.2\Lab11MovieList.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\obj\Debug\netcoreapp2.2\Lab11MovieList.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\obj\Debug\netcoreapp2.2\Lab11MovieList.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\obj\Debug\netcoreapp2.2\Lab11MovieList.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab11MovieList\Lab11MovieList\obj\Debug\netcoreapp2.2\Lab11MovieList.pdb
